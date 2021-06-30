@@ -12,9 +12,8 @@ public class Main {
 
             for(int i=0; i< r.length; i++) {
                 if(r[i] > 48 && r[i]){
-dfcsa,jfnaksdnfasdf
-        sadkfmasdfnmasdf
-                ldfjouasndf
+
+                    System.out.println("PRIMNER");
 
 
                 }
